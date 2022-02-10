@@ -1,7 +1,9 @@
-h2 {
-  color:green;
+h1 {
+  font-family: 'Bitter', serif;
 }
 
+h2 {color:blue;
+}
 h3 {
   color:green;
 }
