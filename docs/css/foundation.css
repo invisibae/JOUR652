@@ -3096,7 +3096,7 @@ select {
   margin: 0 0 1rem 0;
   list-style: none; }
   .breadcrumbs::before, .breadcrumbs::after {
-    display: table;
+    display: ;
     content: ' ';
     -webkit-flex-basis: 0;
         -ms-flex-preferred-size: 0;
